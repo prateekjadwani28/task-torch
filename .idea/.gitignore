@@ -27,3 +27,10 @@ dependency-reduced-pom.xml
 *.lock
 
 README.html
+/.name
+/compiler.xml
+/gradle.xml
+/jarRepositories.xml
+/misc.xml
+/runConfigurations.xml
+/vcs.xml
