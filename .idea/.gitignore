@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+Operating System Files
+
+*.DS_Store
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+
+# Build Artifacts
+
+.gradle/
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea
+*.lock
+
+README.html
