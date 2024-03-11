@@ -1,0 +1,8 @@
+/build/libs/techend-0.0.1-SNAPSHOT.jar
+/build/libs/techend-0.0.1-SNAPSHOT-plain.jar
+/build/test-results/test/TEST-com.tasktorch.techend.TaskTorchApplicationTests.xml
+/.gradle/8.5/executionHistory/executionHistory.bin
+/.gradle/file-system.probe
+/.gradle/8.5/fileHashes/fileHashes.bin
+/.idea/uiDesigner.xml
+*.class
